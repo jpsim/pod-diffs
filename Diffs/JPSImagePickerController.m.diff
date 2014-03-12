@@ -1,0 +1,11 @@
++++ Pods/JPSImagePickerController/JPSImagePickerController/JPSImagePickerController.m
+--- Pods/JPSImagePickerController/JPSImagePickerController/JPSImagePickerController.m
+@@ -2,7 +2,7 @@
+ //  JPSImagePickerController.m
+ //  JPSImagePickerController
+ //
+-//  Created by JP Simard on 1/31/2014.
++//  Created by JP Simard on 3/12/2014. <- new and improved line
+ //  Copyright (c) 2014 JP Simard. All rights reserved.
+ //
+ 
