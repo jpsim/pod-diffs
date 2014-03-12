@@ -1,0 +1,4 @@
+#import "pod-diffs-Prefix.pch"
+
+#ifdef __OBJC__
+#endif
